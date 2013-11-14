@@ -1,3 +1,4 @@
 *.pyc
 build/*
 src/*
+redstone.log
